@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="24774738-27d0-40a7-bbc8-f6d20fc180c6" name="sci-project.lboro.ac.uk" url="http://group3.sci-project.lboro.ac.uk/">
+        <fileTransfer rootFolder="/var/www/clients/client2554/web2519/home/group3" accessType="SFTP" host="sci-project.lboro.ac.uk" port="22" sshConfigId="e4f41c30-6706-445d-888e-d918e12921b8" sshConfig="sci-project.lboro.ac.uk">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
